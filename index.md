@@ -1,4 +1,4 @@
-## Bienvenu sur le manuel d'utilisation de Sysbee
+## Bienvenue sur le manuel d'utilisation de Sysbee
 
 Sur ce site vous trouverez les différentes commandes à envoyer par SMS à votre ruche pour connaître les paramètres en temps réel de celle-ci, vous trouverez des conseils d'entretiens et un support.
 
