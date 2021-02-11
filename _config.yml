@@ -1,1 +1,11 @@
 theme: jekyll-theme-minimal
+title: Bienvenu sur le manuel de votre Sysbee !
+description: La Sysbee se manipule grâce à votre téléphone.
+description: Dans un premier temps après avoir scannez le qr code au dos du boitîer, envoyez le sms proposé sans le modifier.
+description: C'est bon Sysbee vous a enregistré ! Voici les commandes pour utiliser Sysbee à envoyer par sms  :
+description: <on>        pour allumer le système
+description: <off>       pour éteindre le système
+description: <essaimage> pour savoir en temps direct s'il y a eu détection d'essaimage
+description: <poids>     pour connaitre le poids de la ruche
+description: <miel>      pour avoir une approximation de la quantité de miel présent dans la ruche
+description: <tar>       pour tarer la balance lors de l'installation du système
