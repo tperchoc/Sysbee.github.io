@@ -4,8 +4,8 @@ Sur ce site vous trouverez les différentes commandes à envoyer par SMS à votr
 
 ### Les commandes SMS
 
-_La Sysbee se manipule grâce à votre téléphone.
-_Dans un premier temps après avoir scannez le qr code au dos du boitîer, envoyez le sms proposé sans le modifier.
+La Sysbee se manipule grâce à votre téléphone.
+Dans un premier temps après avoir scannez le qr code au dos du boitîer, envoyez le sms proposé sans le modifier.
 
 C'est bon Sysbee vous a enregistré ! Voici les commandes pour utiliser Sysbee à envoyer par sms  :
 ```markdown
