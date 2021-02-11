@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Bienvenu sur le manuel d'utilisation de Sysbee
 
-You can use the [editor on GitHub](https://github.com/tperchoc/Sysbee.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Sur ce site vous trouverez les différentes commandes à envoyer par SMS à votre ruche pour connaître les paramètres en temps réel de celle-ci, vous trouverez des conseils d'entretiens et un support.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Les commandes SMS
 
 ```markdown
-Syntax highlighted code block
+_La Sysbee se manipule grâce à votre téléphone.
+_Dans un premier temps après avoir scannez le qr code au dos du boitîer, envoyez le sms proposé sans le modifier.
 
-# Header 1
-## Header 2
-### Header 3
+C'est bon Sysbee vous a enregistré ! Voici les commandes pour utiliser Sysbee à envoyer par sms  :
+  **on**        pour allumer le système
+  **off**       pour éteindre le système
+  **essaimage** pour savoir en temps direct s'il y a eu détection d'essaimage
+  **poids**     pour connaitre le poids de la ruche
+  **miel**      pour avoir une approximation de la quantité de miel présent dans la ruche
+  **tar**       pour tarer la balance lors de l'installation du système
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tperchoc/Sysbee.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
