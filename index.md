@@ -1,7 +1,7 @@
 ## Coucou Arnaud !!
 
 Sur ce site tu trouveras ton bon pour ton super cadeau !
-Il t'es offert par tes frères et soeurs Florence Amaury Raphele Tristan et moi !!
+Il t'es offert par tes soeurs et frères Florence Amaury Raphaele Tristan et moi !!
 
 ### Alors as-tu deviné ce que c'est ??
 
@@ -10,7 +10,7 @@ Tu vas pouvoir découvrir une nouvelle compétence, essaye de deviner :
 
 Alors c'est le permis 125cc haha, il suffit d'appeler ce numéro :
 ```markdown
-$ 0298806670 pour réserver ta date
+ -> 02 98 80 66 70 pour réserver ta date
 ```
 
 Tu pourras réserver une séance de 3 heures et une séance de 4 heures et enfin tu auras ton permis 125cc
