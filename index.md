@@ -1,11 +1,12 @@
-## Bienvenue sur le manuel d'utilisation de Sysbee
+## Coucou Arnaud !!
 
-Sur ce site vous trouverez les différentes commandes à envoyer par SMS à votre ruche pour connaître les paramètres en temps réel de celle-ci, vous trouverez des conseils d'entretiens et un support.
+Sur ce site tu trouveras ton bon pour ton super cadeau !
+Il t'es offert par tes frères et soeurs Florence Amaury Raphele Tristan et moi !!
 
-### Les commandes SMS
+### Alors as-tu deviné ce que c'est ??
 
-La Sysbee se manipule grâce à votre téléphone.
-Dans un premier temps après avoir scannez le qr code au dos du boitîer, envoyez le sms proposé sans le modifier.
+Tu vas pouvoir découvrir une nouvelle compétence essaye de deviner :
+https://thumbs.dreamstime.com/b/homme-dr%C3%B4le-avec-un-casque-montant-une-moto-123010192.jpg
 
 C'est bon Sysbee vous a enregistré ! Voici les commandes pour utiliser Sysbee à envoyer par sms  :
 ```markdown
