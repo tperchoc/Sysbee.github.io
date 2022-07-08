@@ -6,7 +6,7 @@ Il t'es offert par tes frères et soeurs Florence Amaury Raphele Tristan et moi 
 ### Alors as-tu deviné ce que c'est ??
 
 Tu vas pouvoir découvrir une nouvelle compétence, essaye de deviner :
-<a href="https://thumbs.dreamstime.com/b/homme-dr%C3%B4le-avec-un-casque-montant-une-moto-123010192.jpg">Clique ici<\a>
+<a href="https://thumbs.dreamstime.com/b/homme-dr%C3%B4le-avec-un-casque-montant-une-moto-123010192.jpg">Clique ici</a>
 
 Alors c'est le permis 125cc haha, il suffit d'appeler ce numéro :
 ```markdown
